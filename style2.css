@@ -1,0 +1,8 @@
+#myphoto{
+    float: right;
+    clear: left;
+}
+p{
+    float: left;
+    margin-top: 0px;
+}
